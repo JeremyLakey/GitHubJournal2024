@@ -1,0 +1,16 @@
+html {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: #222222;
+    background-color: #b6b6b6;
+}
+
+ul {
+  padding: 0px;
+  list-style-type: circle;
+}
+
+li {
+    margin: 20px auto;
+    max-width: 500px;
+} 
