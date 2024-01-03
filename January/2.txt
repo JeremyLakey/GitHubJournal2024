@@ -1,0 +1,15 @@
+January 2nd 2024
+
+I think I have a rhythm for how I will do this journal.
+
+Everyday I will work a little on the website. A font, a few word changes, and not much more.
+
+Then I will work a little on another project.
+
+I'm adding another project. 
+
+It's the board game turning machine. I want to work on api that people can build bots on.
+
+I would like to be able to host stats of different bots.
+
+
