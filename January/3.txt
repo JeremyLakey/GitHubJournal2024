@@ -1,0 +1,9 @@
+Jan 3rd
+
+Got a little distracted today and wrote about 800 lines for the turning machine api.
+
+Writing the rules was a fun exercise, but I probably need to write some tests.
+
+With so many rules, it would be best to ensure each of them work as intended.
+
+Also the majority of git projects don't write tests. So its a subtle flex to do so.
