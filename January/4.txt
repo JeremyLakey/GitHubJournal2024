@@ -1,0 +1,13 @@
+Jan 4th
+
+Getting into the groove of things.
+
+I felt I had lower motivation today after work, so I decided to work on getting the mongo database working
+
+It took a minute longer I like to admit, but I got a few schema's done, established the connection, and got a basic post route working.
+
+I didn't work on the website today, but it feels like I put more than enough effort.
+
+Tomorrow I'll add salt and hashing to the passwords, and if I get to it, I'll make a JWT token for authenication.
+
+That should enable most of the routes to have basic security, so I can focus on the game logic.
