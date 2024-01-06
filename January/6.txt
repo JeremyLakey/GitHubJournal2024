@@ -1,0 +1,19 @@
+Jan 6,
+
+I had a little more time to work today, because it was saturday.
+
+Personally, I feel more motivated to code this week, but I still anticipate lower levels during future weeks.
+
+For a first week, this project has helped to reduce my fear of starting a project. 
+
+Finishing a project is a different struggle. Probably partly because I haven't defined a done state for my projects.
+
+I'm currently of the opinion that habit building is the first step. So I rather have a concidency with my work schedule than a finished project.
+
+Eventually I'll get more goal oriented and focus on features.
+
+I feel like there is a heiarchy of coding, just like the heiarchy of needs.
+
+First is spending time coding. I'll have to figure out the rest later.
+
+Bye!
