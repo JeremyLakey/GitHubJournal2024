@@ -1,0 +1,17 @@
+Jan 7,
+
+I worked only on the turning machine api today.
+
+Moslty small clean up of a buch of a little sections and getting to the generation of games.
+
+I'm wondering if I should schedule a time each week to work on a new project.
+
+I'm concern with getting overly invested on one project and it crash and burning.
+
+But working on different and new projects could reck the momentum I have build on a project.
+
+So I think I will have a focus project and one to two side projects I try to work on each day.
+
+For example, the website is the current side project and the turning machine api is the focus of the majority of my time.
+
+I might change side projects more occasionally, and only change the main project once a monthish.
