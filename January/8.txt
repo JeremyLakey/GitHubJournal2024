@@ -1,0 +1,17 @@
+Jan 8th,
+
+We made it to week two!
+
+So I took some time today to write a little schedule down on the unpublish website. We'll see if it holds or if I will remove it.
+
+I put down I am streaming. I probably add my twitch link later, but the channel is called personman61. I only plan on stream on Saturaday for now.
+
+On a more relevant note, I finished game generation for the turning machine project.
+
+Next step is definitely adding a lot of tests for the rules. 
+
+I'll need to look into a testing frame work for javascript.
+
+Lastly, I added a footer on the website. Nothing crazy, just my name and a git icon. 
+
+Overall feeling great. 
