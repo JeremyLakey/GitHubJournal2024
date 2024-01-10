@@ -1,0 +1,22 @@
+Jan 9th,
+
+Spent more time on Leet code 1093 than I would like to admit, but I did it in c++.
+
+I'm actually very comfortable in c++. Not as much as python or javascript, but good enough attempt just about any problem.
+
+What took me a second to figure out was why my answer was off by .00002. 
+
+Turns out, floats lose more accuracy than doubles. Especially since floats have half the memory of doubles.
+
+
+Instead of working on the main site or the turning machine, I looked into a testing frame work.
+
+Jest seems simple enough, but I'm pretty sure it doesn't have any fancy features like mocking.
+
+Luckly, I mostly want to test my rules.
+
+I probably should have looked into testing routes, but I think having a large set of rules and game tests will suffice.
+
+Maybe I'll test the entire route flow at the very end.
+
+Until tomorrow!
