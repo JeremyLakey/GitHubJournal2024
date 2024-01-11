@@ -1,0 +1,7 @@
+Jan 10th,
+
+Not gonna lie, didn't have a lot of time tonight.
+
+But I got a game generation test working and a small detail change on the website.
+
+Cheerio until tomorrow
