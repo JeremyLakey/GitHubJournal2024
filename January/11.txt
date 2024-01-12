@@ -1,0 +1,19 @@
+Jan 11th,
+
+Started learning Godot today.
+
+Unity betrayed us, so guess it is time to start from zeroish.
+
+I don't hate how it is going so far, but I definitly miss the comfort I developed on 2 game jams on unity.
+
+Things always feel backwards starting a new frame work/engine. I'm suprized somehow ever time a new language seems just like a python clone.
+
+Which is what the godot scripting language seems like.
+
+But I just added input, but the project will completely change into a blocky tower defense game in the coming months.
+
+Since Godot script and the tools are the newest, I will definitly have slower results.
+
+I just added a second page to the website called about me.
+
+That is all
