@@ -1,0 +1,27 @@
+Jan 12,
+
+Happy Friday!
+
+Started working on tests for turning machine. I might only do a few tests a day, so it will likely take a while.
+
+In other news, I started watching godot tutorials.
+
+That is why in terms of actual time spent coding, there was less.
+
+But more time overall spend on the project. I didn't add anything to the godot file today.
+
+Godot overall is very simple, but some times it just is weird.
+
+It's own scripting language is both python and javascript like.
+
+It has some form of type safety, but it doesn't require you to invest in it.
+
+Instead of a list of game and sub game objects, everything is a scene.
+
+Meaning you can load just about anything as a scene, but obviously you don't load enemies as a scene.
+
+The structure of scenes seems to work almost like a file tree. With the tutorial using get_node('../../someobject') to select stuff. (The .. is a folder/node above.
+
+Overall, there seems to be closer tooling with the script. Making connecting the script to different callbacks easier. 
+
+Enjoy your three day weekend
