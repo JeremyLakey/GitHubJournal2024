@@ -1,0 +1,22 @@
+Jan 13th,
+
+I just worked on a few tests. And I didn't work much today.
+
+But I'm planning a murder mystery party, and that took a lot of my time.
+
+Also, I had a great run in slay the spire that took up a large portion of my day.
+
+Lastly, making korean fried chicken for my family took the second half of the day.
+
+So all of this combined, I think editting 13 tests was rather good. But I didn't get to stream as according my schedule.
+
+Overall, It could have gone better. But code is code.
+
+
+I wonder if I'm getting to complacent in writting these tests. Tomorrow I'm not gonna work on any more tests, but the api.
+
+Hopefully that makes me feel more productive and more motivating. But working on something like a godot game, which I now little is also dis hearting.
+
+Maybe it is time to change between projects more, and just accept that the pace of starting a project is not mantainable.
+
+
