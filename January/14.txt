@@ -1,0 +1,15 @@
+Jan 14th, 
+
+Two weeks down!
+
+That is almost 4% of the year!
+
+Nothing much happened today, but I'm somewhat starting a small project to learn godot.
+
+Instead of building my blocky game first, I'm building a basic vampire survivor like game.
+
+I find programming something like vampire survivor generally teaches me how to use a engine, but doesn't require much more than a few hours.
+
+Fixed a few errors I found in tests.
+
+Onward to week 3!
