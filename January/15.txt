@@ -1,0 +1,23 @@
+Jan 15th,
+
+Happy MLK day.
+
+I got it off, but didn't spent to much of the time programming.
+
+Instead I started watching the bear with my wife. Kinda a crazy show that I will put in a genre I call stressful.
+
+Other shows, like breaking bad and the patriot fall into this catagory of shows that never gives their characters a break.
+
+In general, it leaves you with a sicking feeling after most scenes. But then these shows slow down, and give you a short relief. Just to throw you back under the water.
+
+Oh yeah, this is about programming. Not drawing lines of fictional genres.
+
+Today I struggled through getting an attack in Godot for my test project. I accidentally multipled the direction of the show with the direction.
+
+This error caused the shot to always move in a positive direction. Leaving me head scratching, wondering, and pondering through reddit posts until I found the bug.
+
+Overall, I learned a nice bit.
+
+Working on another turning machine test. Interesting to try and calculate how many values should pass a rule. Generally I could do it in my head, but rule 15 required brute forcing a solution in a smaller script.
+
+Signing off...
