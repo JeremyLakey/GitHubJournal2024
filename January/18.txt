@@ -1,0 +1,14 @@
+Jan 18th
+
+I uploaded a new project. I did start it a minute ago, like 3 months ago.
+
+So the new project this week is a text based interface for minecraft.
+
+My main struggle is figuring out how to handle input and output 
+simultanously.
+
+But I found someone who ran 3d graphics using node's terminal. So i'm confident in the output.
+
+Today was more of a research day, but I think I'm gonna move back to the other projects for now.
+
+Bye!
