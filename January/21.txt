@@ -1,0 +1,28 @@
+Jan 21st,
+
+So the first test I wrote for the turning machine api just generated a 100 games.
+
+Then tested each game to make sure it only has one answer.
+
+I forgot to delete the outer for loop after copying and pasting the first test.
+
+So I was running each test 100x times.
+
+Today was fixing that for the most part.
+
+Also worked on the website. I literally just forgot about it for like a week.
+
+My head is feeling better today. I can walk and stand more with out the flaring pain.
+
+So hopefully that means my existential dread era is over for the year.
+
+I've think this week went a lot better than I thought it would.
+
+Learn godot is alright. Starting mudcraft again feels exciting and terifiying.
+
+The turning project is in an mvp state. The goal for it this week is writing an example bot, adding a readme, and finishing the tests. (Only 28 more.....)
+
+I might want to make a simple fetching leaderboard website also. I'm 
+probably not gonna host it. Unless I have a coding competition I host.
+
+Week number 3 is finished!
