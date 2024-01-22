@@ -31,8 +31,13 @@ li {
 }
 
 .footer-social-button {
+    padding: 3px;
+
     width: 50px;
     height: 50px;
+    
+    background-color: #6f6f6f;
+    border-radius: 10px;
 }
 
 .footer {
@@ -59,6 +64,10 @@ li {
     background: -webkit-linear-gradient(90deg, rgba(122,122,122,1) 0%, rgba(129,129,129,1) 15%, rgba(76,76,76,1) 100%);
     background: linear-gradient(90deg, rgba(122,122,122,1) 0%, rgba(129,129,129,1) 15%, rgba(76,76,76,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#7a7a7a",endColorstr="#4c4c4c",GradientType=1);
+
+    -webkit-box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.45);
+    -moz-box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.45);
+    box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.45);
 }
 
 .nav-title {
