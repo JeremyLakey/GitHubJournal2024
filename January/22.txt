@@ -1,0 +1,9 @@
+Jan 22nd
+
+Didn't have time to work too much today. Helped my brother learn git and c++.
+
+I started looking more into javascript terminal stuff for mud craft. I wrote it in a different repository, because I don't want to get distracted by the specifics of mud craft.
+
+Hopefully I'll write a tool that works well enought that I can erase the terminal quickly, but still update use input.
+
+Good day gents
