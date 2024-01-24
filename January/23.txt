@@ -1,0 +1,8 @@
+Jan 23rd,
+
+
+Did a leet code and got termina input stored as a string. 
+
+it needs refinement, but is what i needed for mudcraft
+
+Night
