@@ -1,0 +1,17 @@
+Jan 24th,
+
+I was trying to mess around with the terminal output today.
+
+Got it somewhat working. The lesson I learn was clearning the terminal is really expensive.
+
+So you have to cache the changes and only update those cells.
+
+This probably wouldn't matter if I did the terminal in c++.
+
+But it was interesting getting it to work in javascript.
+
+The code may not seem like a lot, but it is a cumulation of experimenting and research.
+
+But now I should have the tools to build mudcraft.
+
+Laters!
