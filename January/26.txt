@@ -1,0 +1,14 @@
+Jan 26th,
+
+I made a simulation for a game called bank.
+
+The result of the simulation was interesting. 
+
+It seems like you want to wait more. And the more you wait, the higher your point total will be in the long run.
+
+But that doesn't take into account the game situation. I might run 
+another simulation to see win rate.
+
+But I was helping my wife learn how to code, so I'm actually putting in effort into a project I cannot git commit.
+
+But laters.

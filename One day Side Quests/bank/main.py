@@ -1,7 +1,9 @@
 import random
 
 numberPlayers = 50
+numGames = 100000
 p = [0 for _ in range(numberPlayers)]
+w = [0 for _ in range(numberPlayers)]
 
 def toWin(t, cp):
     if t < 4:
@@ -42,42 +44,57 @@ def think(t, cp):
     return t < cp + 3
 
 r = 0
-
-
-while r < 2000:
-    t = 0
-    pool = 0
-    pIn = [True for _ in range(numberPlayers)]
-    k = True
-    while k:
-        if True not in pIn:
-            k = False
-            continue
-
-        for i in range(numberPlayers):
-            if pIn[i]:
-                if not think(t, i):
-                    pIn[i] = False
-                else:
-                    p[i] += pool
-
-        res = roll()
-        res2 = roll()
-        tot = res + res2
-        if t < 3:
-            if tot == 7:
-                pool += 70
-            else:
-                pool += tot
-        else:
-            if tot == 7:
+g = 0
+while g < numGames:
+    p = [0 for _ in range(numberPlayers)]
+    r = 0
+    while r < 20:
+        t = 0
+        pool = 0
+        pIn = [True for _ in range(numberPlayers)]
+        k = True
+        while k:
+            if True not in pIn:
                 k = False
-            elif res == res2:
-                pool *= 2
+                continue
+
+            for i in range(numberPlayers):
+                if pIn[i]:
+                    if not think(t, i):
+                        pIn[i] = False
+                    else:
+                        p[i] += pool
+
+            res = roll()
+            res2 = roll()
+            tot = res + res2
+            if t < 3:
+                if tot == 7:
+                    pool += 70
+                else:
+                    pool += tot
             else:
-                pool += tot
+                if tot == 7:
+                    k = False
+                elif res == res2:
+                    pool *= 2
+                else:
+                    pool += tot
 
-        t += 1
+            t += 1
 
-    r += 1
-print(p)
+        r += 1
+    m = 0
+    mi = 0
+    for i in range(numberPlayers):
+        if m < p[i]:
+            mi = i
+            m = p[i]
+
+    w[mi] += 1
+
+    g += 1
+
+for i in range(numberPlayers):
+    w[i] /= numGames
+print(w)
