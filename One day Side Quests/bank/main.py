@@ -1,7 +1,7 @@
 import random
 
-numberPlayers = 50
-numGames = 100000
+numberPlayers = 100
+numGames = 10000
 p = [0 for _ in range(numberPlayers)]
 w = [0 for _ in range(numberPlayers)]
 
@@ -48,6 +48,7 @@ g = 0
 while g < numGames:
     p = [0 for _ in range(numberPlayers)]
     r = 0
+    print(g)
     while r < 20:
         t = 0
         pool = 0
@@ -97,4 +98,13 @@ while g < numGames:
 
 for i in range(numberPlayers):
     w[i] /= numGames
+
+mx = 0
+mi = 0
+for i in range(numberPlayers):
+    if mx < w[i]:
+        mx = w[i]
+        mi = i
 print(w)
+print(mi)
+print(w[mi])

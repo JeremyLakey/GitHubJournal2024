@@ -1,0 +1,18 @@
+Jan 27th
+
+Started teaching my wife how to code. So far, it has been good.
+
+So, I've been coding for work, for a hobby, when I talk to my brothers, and now with my wife.
+
+I'm not gonna lie, its a lot. But I think I'm improving.
+
+Like, there is a lack of fear I once had.
+
+It's like I just don't think as much, but more gets done. (Unless its godot)
+
+Today I worked on some Turning Machine Api tests.
+
+Then I updated the terminal tools, so the next set is to test the tools 
+and make them an npm module so I can import it for mudcraft
+
+Signing out
