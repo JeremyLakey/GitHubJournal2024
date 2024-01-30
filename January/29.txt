@@ -1,0 +1,25 @@
+Jan 29th, 
+
+This is the day that I released my first npm package.
+
+I released a node.js terminal package that I'm using for mudcraft.
+
+Currently, haven't tested most of it, but mudcraft has been flying by.
+
+It crazy how much I've wanted to work on this, but I just couldn't crack input blocking.
+
+But now I figure that out, the rest is falling into place.
+
+So for mudcraft, I'm working on getting the displays working.
+
+Instead of build it as fast as possible, I'm architecting it a little more.
+
+I'm making a system that allows for different displays types and commands.
+
+After adding movement and displays, I'll be working on mining, crafting, and lastly attacking.
+
+That will hopefully be the mvp. I might show this to a minecraft youtuber I know from college.
+
+But lets get it working first.
+
+I take my leave for the night
