@@ -1,0 +1,31 @@
+Jan 30th,
+
+Worked on the terminal tools and mudcraft today. Mostly debugging trying to get the first display working.
+
+I also did a leet code problem that required xor and preprocessing. 
+
+Overall, I'm getting fraustrated with terminal output, but in a good way.
+
+In a way the motivates me to keep hitting my head on it.
+
+30 days down. And I can I feel a difference in my coding confidence.
+
+I can't say I'm better at coding necessarily, but probably.
+
+Other aspects of my life have fallen out of balance, like cleaning.
+
+So this journal isn't without sacrifices and tradeoffs. But I'm happy with my progress.
+
+I highly encourage programmers to work on something every day.
+
+Coding is hard and long, but making a habit makes the hardest part not matter.
+
+That part is starting. Atleast that is how it was for me.
+
+The other hard thing is learning.
+
+And overcoming failures and set backs.
+
+There is just a lot of hard things in programming.
+
+Bye until a day after today
