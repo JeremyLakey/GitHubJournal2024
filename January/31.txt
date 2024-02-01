@@ -1,0 +1,17 @@
+Jan 31st,
+
+Ok, I'm trying a bunch of stuff to get the display looking good.
+
+I might have to cut colors for the most part, because the performance is already slow
+
+Today, I try reworking the system for displaying. Because colors are painful.
+
+But nothing really is working. 
+
+Hopefully, after getting displaying working, the rest of the project falls into place.
+
+It won't, but I can dream.
+
+Overall, great first month.
+
+Till the next month
