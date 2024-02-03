@@ -1,0 +1,17 @@
+Feb 2nd,
+
+Add bots to 6 nimmitz project. 
+
+Went really well. A monty carlo approach works really well, because you don't know what cards others have.
+
+I have a few bots that had cheesy or random strategies, but the new bot doubled their win rate.
+
+About 32% win rate to 15%ish from the other bots.
+
+
+
+One hint about keeping a project journal like this, don't save it to the last minute.
+
+It makes the whole process a drag and more anxiety filled.
+
+So long until tomorrow, unless you are stuck in a time loop 
