@@ -1,0 +1,15 @@
+Feb 3rd,
+
+So I went to add a new bot type to my six nimmitz simulation.
+
+And there was an error that should have been impossible.
+
+That tipped me off that my estimating bot was adding imaginary cards to different piles.
+
+Basically creating super piles of death that the other bots would generally trigger, because they make their decision before the bug.
+
+After fixing that, the rate of success for the estimator bot went way way down. Like to a sad level of down.
+
+But now the smartest bot is winning more, which is funny that a simple greedy algorithmn is winning.
+
+Happy Saturday!
