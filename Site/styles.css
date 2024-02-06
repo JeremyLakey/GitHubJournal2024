@@ -26,6 +26,12 @@ li {
     max-width: 500px;
 }
 
+a {
+    color: #4372ff;
+    text-decoration: none;
+    text-shadow: 0 0 6px #ffffff25;
+}
+
 .footer-text {
     color:rgb(233, 233, 233);
 }
