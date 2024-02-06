@@ -1,0 +1,33 @@
+Feb 5th,
+
+Decided to work on the website for the journal today.
+
+Worked on making an email form today. But I don't actually have a backend to make requests.
+
+So either I can make an actual server, or I can scrap the idea. (Or put in on the indefinite back burner)
+
+But writting about it is making me more motivated to do it. I could quickly make the backend code probably in a day or two of minimun effort.
+
+Today didn't challenge me, which is worry some.
+
+I think I have been avoiding Mudcraft, because the output is getting more and more complicated.
+
+But I think it is time to rip the band off, in two days.
+
+For the rest of this entry, I think I want to write more today about what I want to make.
+
+It's been a minute since I talked about what I wanted to get done.
+
+First, I think I want to some games. Probably all in godot. (I know unity, but it takes up to much space on my computer. And the contraversy)
+
+I might make a prototype in python, but then transfer it over.
+
+My game ideas are some what unchanged. First a clone of vampire survivors. Then a simple rpg with a baggy based mechanic. Lastly, a blocky-tetris like tower defense game.
+
+Besides games, I want to build some simulations. Like 6 nimmts. Eventually, I want to get some reinforced learning going too. Somewhat become an ai engineer.
+
+Lastly, I probably will find a webdev project. Just because thosse skills are important to keep sharp.
+
+
+
+
