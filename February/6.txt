@@ -1,0 +1,18 @@
+Feb 6th,
+
+This might be my lazyiest day of the year.
+
+A movie tonight is going to take up all my time from 7 to 12, and I still have to make dinner.
+
+So I just solved a single leet code problem. And a very simple problem I once solved before in python.
+
+I did it in javascript instead. It took a minute, because I make an array instead of a string.
+
+And I confused myself.
+
+
+Later tonight, if I have free time, I plan on researching running c++ in javascript.
+
+Because it might be a better terminal output.
+
+Never stop!
