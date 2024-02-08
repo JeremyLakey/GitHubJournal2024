@@ -1,0 +1,20 @@
+Feb 6th, Wait 7th,
+
+So mudcraft is at the point were the player can move around the screen.
+
+I need to adjust some values, but it loads the blocks and updates the screen.
+
+It currently a height map, but eventually, I'm going to start working on getting all the blocks colored correctly.
+
+I also need to add the entities.
+
+But today is a landmark day in this project. I'm knee deep in debugging, but progress!
+
+Maybe, by the end of the month, we can have full color and movement.
+
+I'm guessing crafting is going to be a loooooooooooonnnngg while.
+
+With lastly combat and equipment.
+
+Until a day that is not today, but not two days from now, because that is too late for my git hub streak.
+
