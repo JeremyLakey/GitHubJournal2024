@@ -1,0 +1,19 @@
+Feb 8th,
+
+Made a new project today.
+
+I keep talking to people that want to learn programming but don't know how to learn/challenge themselves.
+
+So I decided to build a set of problems to help people develop the skills they need for programming.
+
+I might dedicate Thursdays to writting coding problems.
+
+The mindset is very different than writting good code. Instead, its about pushing the logic/reasoning/vision of someone else.
+
+Which weirdly helps me to understand my own weaknesses.
+
+The challenges might be a little hard for true beginners, but it is like a chess puzzle.
+
+Where after you know what you are looking for, it easier to see.
+
+Bye to any soul that actually reads this (Probably just LLMs like chatgpt)
