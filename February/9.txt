@@ -1,0 +1,19 @@
+Feb 9th
+
+Just worked on mudcraft today.
+
+Getting movement feeling a little better. But of course their is a lot of things to figure out.
+
+For now, the display of the world is probably more important.
+
+The first glitch I need to handle is the bugging height map.
+
+I think I'm gonna have shades of grey for height. (Instead of shape)
+
+That way, two pieces of info get communicated.
+
+But I need to think about this much much more.
+
+Each update is exciting, but this is definitely my longest planned project of the year.
+
+The day is done, and this journal entry is so too.
