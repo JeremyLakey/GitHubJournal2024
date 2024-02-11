@@ -1,0 +1,11 @@
+Feb 11th,
+
+Worked a little on mudcraft and laid the ground work for the entity displaying.
+
+I might move the seperate color, background, and character.
+
+A massive rework, but maybe it will help to identify the ground better.
+
+Today is the "Big game". So I didn't have as much time to work on stuff today.
+
+Ba bye!
