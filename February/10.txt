@@ -1,0 +1,25 @@
+Feb 10th,
+
+Made some chicken wraps today.
+
+And I wouldn't mention it if they went something.
+
+We also got a type writter.
+
+I'm very tempted to write on the type writer, instead of this.
+
+But I'm committed.
+
+Today, I started experimenting with color depth map instead of characters. (In mudcraft)
+
+It is working well, but I need to start adding character for different blocks.
+
+Then it will start to feel connected.
+
+Movement and loading is all over the place. The loading seems to be off by one block, but that is a tomorrow problem.
+
+Movement is probably what I'm going to solve last.
+
+I think adding mobs also might make it seem look alive.
+
+Good night
