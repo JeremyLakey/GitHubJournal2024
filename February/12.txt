@@ -1,0 +1,32 @@
+Feb 12th,
+
+This week is really busy for me, so I'm committing to not committing anything hard.
+
+Rather than spend the week making "meaning full" progress, I'm going to focus on busy work.
+
+Like the last few tests for the turning machine api and some practice problems.
+
+In the end, I think I can always progress something. Even if that is not progressing me dramatically.
+
+I'm honestly so happy with my progress. Even if I stopped this project today, I would be proud of my progess.
+
+Eventually, all practices and trainings stop progress. 
+
+Getting better often requires a shock or pushing your limits.
+
+
+As part of the practice problems, I'm going to write guides.
+
+I think I'm going to do some of the following topics this week.
+
+1. The levels of programming.
+
+2. Why git is confusing.
+
+3. Architecture and Teamwork.
+
+4. UML and communicating flows.
+
+5. Integration Engineering.
+
+Bye!
