@@ -1,0 +1,16 @@
+Feb 19th,
+
+Got back today, but spend my night buying a new computer.
+
+So my coding time is turned into computer set up time.
+
+But I decided to do a leet code problem, and I got a sql problem. 
+
+That was a new experience. But I learned about Left join, group by, and summary rows.
+
+So it was more productive learning than I thought it was going to be.
+
+
+But hopefully we get back to the reguarly programmed programming tomorrow.
+
+THE END
