@@ -1,0 +1,21 @@
+Feb 20th,
+
+I felt very unmotivated to program today. 
+
+After soo much vacationing, I really didn't feel up to it.
+
+The lack of motivation was weird. It was like I'm lost in all my projects and I don't know what to do.
+
+Such a feeling is what I was trying to overcome by this project, so I'm happy to atleast do something about it today.
+
+In order to get an easy win, I made a new project to prototype a game in the terminal.
+
+I'm making it in python, because I'm going to translate it later into godot.
+
+And the godot language is just pretend python.
+
+The level of stress over this project currently is not healthy.
+
+I don't know why I'm so stressed, but maybe I need to reset my brain.
+
+Hopefully I'm write better and more optimistic things tomorrow!
