@@ -1,0 +1,17 @@
+Feb 24th,
+
+Do day I did two things that are scary.
+
+First, I opened back mudcraft after not visiting it in weeks.
+
+Second, I'm writting this log in vim instead of nano.
+
+So there is very high chance I will lose this log by accidently typing the wrong command.
+
+Hopefully my memory of vim returns after this log.
+
+But for project mudcraft, I went ahead and started getting some more display stuff working. Then I started fine tuning the movement a little. (It still needs to be smarter about walking into doors, ladders, blocks)
+
+Overall, today was a weird getting over a few hurdles of fear.
+
+Laters!
