@@ -1,0 +1,11 @@
+Feb 26th,
+
+Looking into debugging for mudcraft. (Aka, getting the view to work)
+
+There is a weird error where everything is gone. (Probably a version issue)
+
+Didn't have much time today, but I'm just hitting my head against a brick wall.
+
+So basically I'm programming as usual
+
+G'night
