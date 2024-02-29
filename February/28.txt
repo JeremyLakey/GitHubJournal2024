@@ -1,0 +1,21 @@
+Feb 28th,
+
+So my ip was unbanned by leetcode.com. Nice.
+
+Today, I went back into the same problem as yesterday.
+
+I hate to say it, but I looked up a solution after a while.
+
+Not gonna lie, I learned how to do this problem all the way back in highschool.
+
+So my math and cs teachers would not be proud.
+
+Because it was literally the same conversion as binary.
+
+Just you have to take into account the negative remainders when dividing by -2.
+
+First, you have to actually add 1 to the division, because negative numbers round down in integer math. (And it needs to round towards zero for real math)
+
+A negative remainder is the correct digit, just negative. So you absolute value it.
+
+Good day gents
