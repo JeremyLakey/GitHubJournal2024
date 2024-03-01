@@ -1,0 +1,11 @@
+Feb 29th,
+
+Leap day, and we are not leaping.
+
+But instead, I worked on some mudcraft.
+
+Got the basic event system working.
+
+I'm not sure how I will add events, but I'm gonna have to put a lot of work into it.
+
+Speedy one, but bye
