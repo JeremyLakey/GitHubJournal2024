@@ -1,0 +1,21 @@
+Mar 2nd,
+
+Today, I spent more time writting a sci-fi short story than coding.
+
+So time well spent. But I enjoyed my Saturday. 
+
+Moving to coding, I wanted to start working on the inventory system for mudcraft.
+
+So far, I have the base of the code done. It just doesn't work.
+
+Like, I thought it would. But it didn't. So I need to figure it out.
+
+Nothing is showing up, and I don't know why.
+
+Side story, this week at work I was debugging an endpoint for two days.
+
+By the end I discover a setting that return false for an account when it should have been true.
+
+I turned the setting on and off and it worked. Some migration must have been bad for local development. **cries in pain**
+
+Happy weekend
