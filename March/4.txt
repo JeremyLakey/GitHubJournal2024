@@ -1,0 +1,15 @@
+Mar 4th,
+
+Working on a new desk, so writing guides and the log from my journal today.
+
+It was a pretty nice Monday. I was debugging at work for way longer than I will admit.
+
+But it was a strange bug. Tests were failing outside of my changes, because I mocked something and added to a list of mocks. This cascading affect had weird side effects that are hard to explain.
+
+But all tests passing now.
+
+My new desk is pretty cool and we are custom making it our self to slide perfectly into our walls.
+
+So It hopefully will have a positive impact on this project. Therefore I'm mentally counting it like time spent on the journal. 
+
+Bye bye
