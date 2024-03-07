@@ -1,0 +1,11 @@
+Mar 6th,
+
+Desk is finished, so back to coding.
+
+But I'm leaving on vacation tomorrow and will likely not write more code this week.
+
+I decided to start writting the example bot for the turn machine api.
+
+Next, I'll write some documentation for the api itself, then consider the project done.
+
+Hoooooooooooooooooope your day is great!
