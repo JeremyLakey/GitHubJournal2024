@@ -1,0 +1,15 @@
+Mar 13th,
+
+I have had a great day, and hope you have had one too.
+
+The example bot for the turning machine api is going grrrrrrrrrrrrrrrrrreat.
+
+Hopefully, I'll have it complete by tomorrow and then I can start writting the api.
+
+After some final testing, I'll be maybe exporting the api as a node module to make the experience easy for developers.
+
+Then I might add a frame work for hosting a tournament. 
+
+We'll see what I do with it, but I will like to do more mudcraft stuff first.
+
+Bye
