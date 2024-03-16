@@ -1,0 +1,9 @@
+Mar 15th,
+
+Turning machine is having some weird bugs on the api side, but I have an almost functional bot.
+
+There is still stuff to make it prettier of an example, so that is next.
+
+I'm feeling great and motivated recently. This is actually quiet a fun project still.
+
+Another day of grinding done!
