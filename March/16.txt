@@ -1,0 +1,25 @@
+Mar 16th,
+
+Turning machine example api is                functional finally.
+
+Half of the problems were the api and the other half was the bot.
+
+So it took me a minute longer than I would lllllllllllllllllike to admit.
+
+I think I'm gonna expand the api include the stats things and add it to the example bot.
+
+Then release the api as a node module.
+
+But                 I'm excited to see this project coming to an ennnnnnnnnnnnnnnnnnnd.
+
+You might notice a bunch of mistakes in this log. That is my keyboard.
+
+I'm leaving those in to show my paain.
+
+It is really bad. I                  Think thhis is inferiating.
+
+But that is it for today.
+
+I need ttttttttttttttttto start brain storming new project ideas to pivot to
+
+laters
