@@ -1,0 +1,17 @@
+Mar 17th,
+
+Starting working on some documentation today, but outside factors prevented me from making much progress.
+
+It is crazy that I'm at this point. But I feel really proud of what this project has accomplished.
+
+Like most projects on github are probably not functional unless they are school projects.
+
+But turning machine api is functional.
+
+Even more so, most don't have tests, examples, or documentation.
+
+So this entire project feels very complete already.
+
+But there is always more you can do on a project.
+
+Signing out!
