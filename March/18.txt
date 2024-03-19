@@ -1,0 +1,13 @@
+Mar 18th,
+
+Learned today that body-parser is deprecated, so I removed it from the turning project.
+
+Express comes with a .json() function that can be used as middle ware for parsing json bodies.
+
+I also was making some headway on the api. (I got hold up on body-parser hanging because I forgot to add () to a function)
+
+Most of the changes allow for stats.
+
+Which might be helpful in the future. I'm thinking about making a webhook system (way down the line) that allows for tournaments. Each bot registers for an event and give an url. Then those urls get called when a tournament starts.
+
+That is all I have to say on this day.
