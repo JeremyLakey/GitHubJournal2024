@@ -1,0 +1,15 @@
+Mar 19th,
+
+Fixed the last of the endpoints for turning machine.
+
+In theory, the project is fully functional. Both bot, api, and tests.
+
+So the rest of the project should be writting documentation and readme.
+
+And maybe publishing a node module of the api.
+
+That might take some time, but next is the making more accomplishments on mudcraft.
+
+It is time to start looking into fighting, placing blocks, and crafting. (So the game is completable.)
+
+Goodnight!
