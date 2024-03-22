@@ -1,0 +1,14 @@
+Mar 21st,
+
+I don't have much time tonight, but things are somewhat progressing still.
+
+
+I added some error throwing for improper use of the api.
+
+There are some other errors I could add, and I might.
+
+Really need to eventually do this documentation thing.
+
+I watch season 3 of Dr. Stone. (It was a bop)
+
+Bye
