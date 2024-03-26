@@ -1,0 +1,15 @@
+Mar 25th,
+
+Today a wrote a command for window's cmd.
+
+I was always annoyied that there was no easy command to open a new terminal at the current location. So I made "newt" for "new terminal".
+
+Nothing special, just a one liner.
+
+I wrote more docs, which lead me to realize that stats return id's and extra not needed stuff. So I scrub the stats a little more.
+
+Also, I think I have an idea for a project. Specifically, I want to make a website that uses chat gpt to parse cooking recipies. Dumb as it sounds, websites are the worst part about cooking.
+
+I could just get ad blocker, but I think I want to centralize my recipes. Because I almost lost a recipe because it was taken down.
+
+That is all, bye!
