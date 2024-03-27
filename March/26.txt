@@ -1,0 +1,21 @@
+Mar 26th,
+
+I wanted to get more done tonight, but things got carried away.
+
+So, ai documentation I feel like is really bad.
+
+Or maybe it is just me.
+
+But I went to read things, and they have so much boiler plate code that I learn nothing.
+
+It's like copy and paste, then mess with the numbers until it works.
+
+Adapting to my model, even a simple one like tic tac toe, is not obvious. 
+
+But maybe I will change me mind about it after I finish it.
+
+There is a part of me that wants to just make the ai libraries from scratch using c++. But I have resisted the urge up to this point.
+
+But if I don't make progress in like a week, then I just might.
+
+Night!
