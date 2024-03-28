@@ -1,0 +1,15 @@
+Mar 27th,
+
+Today I decided to acctually start webscrapping for recipes.
+
+Great thing about recipes, is everyone wants to appear on google. 
+
+Which means they all use the same-ish format.
+
+So, I'm like half way done after a few hours of looking into webscrapping.
+
+I went with selenium, because it is what I found first.
+
+And it is working. So I will likely have all my recipes locally stored within the week.
+
+Bye!
