@@ -1,0 +1,13 @@
+Mar 28th,
+
+Still working on the parsing of recipe meta data.
+
+Instead of grabbing just a section of code at a time, I'm trying to parse to json first then work from there.
+
+There is some hardships with that thou.
+
+Like sometimes there are arrays or graphs of more data.
+
+Very much pain awaits as I slowly figure it out with more websites.
+
+Night
