@@ -1,0 +1,17 @@
+Mar 29th,
+
+Had a lot of fun today writting the scrapper some more.
+
+I got it kinda down to pretty high quality.
+
+I decided to write to md so that I can better format the instructions.
+
+Eventually, I'll probably have a private git repo that my family can add ingredients.
+
+I might even make a server with a webpage that we can submit urls to and it automatically uploads to the repo.
+
+I know, it sounds crazy. But it would be dope to centrialize this.
+
+Either way, this project has been incredibly useful to learn.
+
+Bye!
