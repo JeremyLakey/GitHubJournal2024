@@ -1,0 +1,17 @@
+Mar 31st,
+
+The last day of march.
+
+A lot has happened this month. And I'm pretty happy.
+
+Last month I was considering stopping. Looking back, I'm going at a nice pace now.
+
+So today, I was just writting documentation and exporting the bot-client for the Turning Machine project. 
+
+I basically just have to write the last bit of documentation for using the client now. And some formatting of the other .md files.
+
+I'm trying to take it off my plate before I forget.
+
+It might be my main project that I show off for jobs. It really has it all.
+
+Bye!
