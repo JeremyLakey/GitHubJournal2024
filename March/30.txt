@@ -1,0 +1,24 @@
+Mar 30th,
+
+I showed off the recipe parser, and I'm getting a lot of positive feedback.
+
+Like people actually want to use it. So I moved it to it's own repository.
+
+So I might take more time to work on it more fully. 
+
+Today, I worked on a bug I found with a new recipe. Eventually, I might start structuring some more things. 
+
+Instead of a webpage, I think I'm going to make a discord bot that takes a url and type. Then sort new recipe in a private git repositories.
+
+I'm think about making a table of contents that gets updated with each new recipe in it sub types. 
+
+Big plans, but I got to figure out a few things.
+
+-Discord bots
+-Updating repositories from the program
+-Making a python api
+-Hosting
+
+But I have done very similar things before.
+
+Bye!
