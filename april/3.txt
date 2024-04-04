@@ -1,0 +1,19 @@
+Apr 3rd,
+
+Still working on a dumb ai project.
+
+I'm mostly curious what happens when you build little memories and inject into prompts.
+
+The idea probably has been done, but the method of selection will somewhat be like spell check.
+
+It will be fun to get something going that is somewhat more human of a chat bot.
+
+Most ai people will tell you that ai is creative. And I don't feel it.
+
+It feels very generic. And I would like my ai to be better at chatting than most.
+
+More so for a game application than a company tool.
+
+But I don't expect anything out of this.
+
+Bye!
