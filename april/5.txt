@@ -1,0 +1,9 @@
+Apr 5th,
+
+Working on making an ai side project work.
+
+Got it's memory function functional.
+
+Hopefully, it can grab past memories and build up relationships from it past based on word context.
+
+Night
