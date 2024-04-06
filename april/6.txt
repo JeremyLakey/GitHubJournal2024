@@ -1,0 +1,13 @@
+Apr 6th,
+
+This was the faster turn around for a journal.
+
+But I'm pulling an all nighter. So there might be more code to code, but I might forget to write this log later.
+
+I have spent the last 30 minutes trying to access the chat gpt api.
+
+Unfortunately, my card is not working on their site for api credits.
+
+To rub salt into the wound, they took my money when I mistakenly signed up for chat gpt plus. (Which I originally thought was for api access, 20 clams gone)
+
+I'm going to cry and maybe code some more:bye!
