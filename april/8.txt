@@ -1,0 +1,29 @@
+Apr 8th,
+
+Being tired is a weird thing. Sometimes I feel tire more when waking up than sleeping.
+
+I'm more tempted to stream some of the stuff I'm doing. I did it on friday/saturday.
+
+Not very great at streaming and I don't have a perfect setup.
+
+But I really like to pretending I'm talking to someone.
+
+Which is the tone of this whole journal. 
+
+In other notes, I'm working more on the turning machine documentation for the client.
+
+I'm very very close, but I need to test some more things to make it developer friendly. 
+
+Having second thoughts on the return objects and things of different functions.
+
+After this project, I have of course the ai projects, mudcraft, and the recipe parser.
+
+But somewhere somehow, I want to pivot hard to doing unreal engine game development. Because I want to get do a 3-D game for a game Jam this year.
+
+And actually learning an engine can take months. 
+
+I waasss learning godot and half of the side projects I started was godot.
+
+But I think 3D will be more of challenge.
+
+Bye
