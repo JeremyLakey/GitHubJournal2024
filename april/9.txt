@@ -1,0 +1,25 @@
+Apr 9th,
+
+Starting on a simple website for the recipe parser.
+
+I might actually host the site and see if I can get users.
+
+Or I just might ignore it and never get around to it.
+
+Part of the reason I started working on a website again is that I fear it.
+
+Most of my programming career I have actually done front-end related things.
+
+It comes easy, but somehow I fear doing it from time to time.
+
+So I decided to try and get the rust off.
+
+Personally, I struggle feeling powerless with what I know sometimes.
+
+But if I just do it, I feel relieved that I understand what I'm doing.
+
+Overall, today was a little detor to make me feel nice. 
+
+And it helped.
+
+Bye!
