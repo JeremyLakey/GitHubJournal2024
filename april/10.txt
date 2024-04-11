@@ -1,0 +1,9 @@
+Apr 10th,
+
+I started with flask today, but it doesn't handle well with timeouts.
+
+So I'm going to look else where for a different python back-end frame work.
+
+But, it is cool to have somewhat of a working parser. Even thou it timeouts.
+
+Bye!
