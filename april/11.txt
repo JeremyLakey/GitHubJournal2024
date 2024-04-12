@@ -1,0 +1,17 @@
+Apr 11th,
+
+Today might have been the biggest mistake.
+
+Django for python is terrible.
+
+Mostly because it generates a big project instead of just letting have my back-end server.
+
+The crazy thing about python frame-works is they always seem to try and do both front-end and back-end.
+
+Which causes this big blot when I just want the back-end section.
+
+It's kinda trash.
+
+And I might revert my changes for the recipe parser, I hate it that much.
+
+Bye!
