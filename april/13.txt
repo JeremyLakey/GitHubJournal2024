@@ -1,0 +1,27 @@
+Apr 13th,
+
+I've been feeling really stressed lately.
+
+There have been some annoying bugs with CORS.
+
+I'm convinced no one really understands what CORS is fully.
+
+There is some stuff the browsers handles. And then there is some stuff the server handles.
+
+Both seem weird to me. 
+
+Like relying on the browser for security seems like a bad plan.
+
+But I'm now at a crossroads.
+
+I have 2 things I think I want to do:
+1. Finish the turn machine api
+2. Get a functional recipe parsing discord bot.
+
+For 1, I need to update the node client module and then work on the descriptions.
+
+For 2, I need to have a git bot that is able to commit and push. Add a back-end end point for that commit. Then make the bot that calls that endpoint.
+
+I think tomorrow will be part 1 of 1.
+
+Bye
