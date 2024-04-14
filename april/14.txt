@@ -1,0 +1,9 @@
+Apr 14th,
+
+Finished the turing machine api today. Everything is done. Api, client, doc.
+
+Even added logging.
+
+I'm happy to finally move on after a successful project.
+
+Bye!
