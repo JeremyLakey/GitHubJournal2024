@@ -1,0 +1,15 @@
+Apr 16th,
+
+Got started on the discord bot, with a goal to have a recipe parser bot done by the end of the week.
+
+In other news, I have a new mentor that might start teaching me some more vim.
+
+Which I look forward to become a boss VIMer.
+
+Learning a new set of integration tools generally take a minute to make sure everything is safe and correct.
+
+More likely than not, this bot is going to become a security issue.
+
+So, I'll have to be careful.
+
+Bye
