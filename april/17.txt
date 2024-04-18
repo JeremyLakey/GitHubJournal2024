@@ -1,0 +1,21 @@
+Apr 17,
+
+Today made a supporting util for the recipe parsing api.
+
+It can commit and push files.
+
+So basically I have an api that can parse and now write files to an api.
+
+Next up is hitting this from the discord bot.
+
+I'm angry today. Don't have any reason.
+
+Just don't know why and I wanted to mention it.
+
+Somewhat stressed today about when I was going to be able to code.
+
+But I'm feeling better that I got something coolish down.
+
+It's weird to run the git script and see the updates to git hub.
+
+Anyways, good night
