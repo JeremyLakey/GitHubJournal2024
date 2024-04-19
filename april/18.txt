@@ -1,0 +1,25 @@
+Apr 18th,
+
+Working on the discord bot some more.
+
+The structure is a little weird, because there seems to be a difference between a command and a slash command.
+
+Also, there is a difference between running a client and a bot.
+
+Either way, I'm tired. 
+
+I think I've been slowly down lately.
+
+There is a weird lack of gusto I have been having lately.
+
+Errors seem weird and hard to debug.
+
+Things are taking for ever for the smallest things.
+
+The projects are still improving, but at a snails pace.
+
+But a part of all that is learning new back-end tooling.
+
+SLow things take a lot out of me.
+
+bye
