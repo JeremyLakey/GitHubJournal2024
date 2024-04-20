@@ -1,0 +1,23 @@
+Apr 19th,
+
+I'm happy that the weekend is now.
+
+My work was stressful this week.
+
+In other news, I took what I learned from working with the other discord bot and gave my Jerome bot a new place to speak.
+
+Before I release Jerome on the world, I need to figure out a few things. 
+
+1. How do I give Jerome goals?
+
+2. How do I give Jerome actions?
+
+3. How do I select what memories to load into Jerome?
+
+4. How long should memories last?
+
+Maybe I'll actually think about it and unleash a generial Artificial intelligence on the world.
+
+Hopefully this doesn't turn into some horror log from the future where Jerome goes evil.
+
+Good bye!
