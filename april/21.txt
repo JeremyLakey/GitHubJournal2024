@@ -1,0 +1,23 @@
+Apr 21st,
+
+Today I was feeling unmotivated. 
+
+I think there is a part of me that feels down at work at the moment.
+
+There is something I can't solve.
+
+Nothing is really helping, including asking others for help and stuff.
+
+But to fight this melancholy, I decided to do a leet code easy.
+
+One I've done before, but this time in scala.
+
+And boy, it took a minute longer, but gave a weird since of confidence.
+
+There is not much I honestly like about scala, but it is what I do for work (80% of the time).
+
+Honestly impressed that I actually got it to work. And since no one else has ever done that problem in scala, I got 100% percentile on both memory and run time.
+
+So kinda a flex.
+
+On to more important stuff tomorrow
