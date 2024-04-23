@@ -1,0 +1,27 @@
+Apr 22nd,
+
+Today, I got the recipe parser, git util, and the discord bot all working together. 
+
+Quiet magically to see it all come together. Now I just need to set up a few more features before I host.
+
+1. I need to add a white list (So only select family members can access it).
+
+2. I need to add the ability to sort the files into different catagories. 
+
+I might even force users to pick a catagory.
+
+Next up, I need to pick up more game development skills.
+
+I plan on doing a game jam this year with my family. So I need to either learn Unity, Godot, or unreal more. 
+
+I'm mostly trying to decide between Godot and Unreal.
+
+Godot hasn't been bad, but it hasn't been great either.
+
+There are some confusing things about how to do things.
+
+I haven't touched unreal, but I know c++ pretty well. Enough that isn't a reason to not pick it.
+
+Either way, I need to just focus on those skills instead of the standard programming I've been up to here.
+
+Bye
