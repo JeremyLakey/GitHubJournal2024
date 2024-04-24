@@ -1,0 +1,27 @@
+Apr 23rd,
+
+I did something sub optimal.
+
+Leetcode
+
+I know, terrible terrible waste of my time.
+
+But there is something very satisfying about solving leet code problems in scala.
+
+Because over a year ago when I was first learning scala, even a simple easy problem took me hours and I didn't even solve it.
+
+So I'm some what riding a high. 
+
+To be honest, I kinda want to do my next interview in scala. Or atleast be interview ready in the language.
+
+I consider myself interview ready in python, almost in c++/javascript, and now almost in scala. 
+
+Instead of power tripping and show boating, I should've taken time today to learn unreal or more godot. But I just didn't want to learn today.
+
+Other things I thought about were 1. project Mudcraft and 2. Discord Recipe bot.
+
+For the recipe bot, I could have refactor some code and added subfolders. 
+
+Maybe even a table of context file that is auto updated the new files. (For quick navigation)
+
+Ok, I'm giving up for the night, bye
