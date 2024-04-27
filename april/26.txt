@@ -1,0 +1,13 @@
+Apr 26th,
+
+A quicker day, mostly focus on improving the recipe parsing discord bot.
+
+Overally, I'm happy to say I included a whitelist. 
+
+So know I can set it up that the bot only cares about what my family and I are doing. Maybe I need to look into making sure no can also take my username.
+
+That's a future me problem.
+
+Tomorrow I might go back to unreal engine.
+
+Bye!
