@@ -1,0 +1,7 @@
+Apr 27th,
+
+Tried making some style changes to the recipe parser, but github doesn't support styles on their images.
+
+But things are looking better with categories and things.
+
+Nigh
