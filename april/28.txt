@@ -1,0 +1,37 @@
+Apr 28th,
+
+Man ooohhh man, we are almost at the end of month 4.
+
+This month feels slow and fast. 
+
+My hobby code slowed down I spent more time learning about discord botting, unreal, and python servers.
+
+Of course a healthy dose of CORS issues slowed me down and increase my ever growing anxiety about my ability to solve simple server issues.
+
+But we worked through that. And now we have some fun stuff.
+
+My recipe parsing discord bot is basically finished, besides writting documentation. (Just a MVP)
+
+But that is fine.
+
+On the other hand, I wrote a interesting memory system for an ai and connected it to discord. (Maybe JEROME will take over the world. Who wouldn't want that for thier coding baby they whipped up in 2 hours)
+
+Jk. I will never put enough money into project Jerome to test his potential.
+
+Oh, I forgot to mention that I did finish the turning machine project.
+
+Literally the most "done" thing I've ever "done"
+
+For today, I just watched over an hour of a Unreal engine tutorial. Learning is sllllloooooowwwww. But I'm bring my significant other along for the ride.
+
+I'm hoping this is a back-door into convincing her to try coding again.
+
+Blue prints is very interesting, and not super straight forward (While also being very straight forward).
+
+Like to delete a connection, you alt + left click. (Or right click and select the disconnect option)
+
+I'm sure lost in the sauce, but there is only so much sauce in the world.
+
+But this is game time before summer game jams start popping up.
+
+Bye!
