@@ -1,0 +1,27 @@
+Apr 30th,
+
+Actually the last day of April.
+
+Went back and messed around in unreal for a minute.
+
+Not gonna lie. I kinda hate the node system of programming, because it doesn't feel like programming.
+
+Stupid I know.
+
+But that what I get for trying new things. New things.
+
+Of course it isn't a bad system. I'm just fighting it and feeling dumb.
+
+So it's like normal programming, but with more search bars and component specific knowledge.
+
+SO it's a bit closer to learning a code base than it is to programming.
+
+It's kinda like learning css or html for the first time (But better because that is another all time low learning moment)
+
+To offset the feeling of "not coding" I'm probably going to either a) code more other stuff on top of unreal stuff. or b) switch more often.
+
+But to be fair, I'm making progress and it's not feeling as bad as learning Scala.
+
+Which is a bonus. (That is still the lowest low I have ever felt from the programming language).
+
+Ok, I don't have much else to say. Night
