@@ -1,0 +1,19 @@
+May 3rd,
+
+Had a fun time working in unreal today.
+
+I'm mostly messing around with different features.
+
+Like getting enemies to agro at certain ranges and return home once you leave them.
+
+Also I tried rotating the moving platform.
+
+Rotation is kinda jankie, and I might try something else.
+
+Because it is teleporting the platform.
+
+Which means the rotation point is off center. (But I tried to fix it without googling for no reason)
+
+So I'll figure it out tomorrow.
+
+Bye
