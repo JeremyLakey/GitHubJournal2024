@@ -1,0 +1,22 @@
+May 5th,
+
+Another day of teaching my brother coding.
+
+We did some white board coding, which seems to go a little better than computer coding.
+
+
+I also started with teaching with what was taught last.
+
+I think it is important to start with something the previous lesson covered.
+
+That way, the student has something to build off to.
+
+Also, I think having real world examples.
+
+Lastly, I try to get their reasoning as much as I can.
+
+But we learned about scopes, functions, boolean, and loops.
+
+Overall, a fun way to practice program is to teach others.
+
+Bye
