@@ -1,0 +1,13 @@
+May 7th,
+
+Don't know why, but I did another leet code problem in scala today.
+
+And it required caching, mapping, and the whole 9 yards.
+
+I'm tired and it was a learning experience.
+
+But I'm feeling happy with my progress with scala.
+
+This little detour made my brain feel accomplished.
+
+Night
