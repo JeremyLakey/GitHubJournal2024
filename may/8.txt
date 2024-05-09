@@ -1,0 +1,15 @@
+May 8th,
+
+I have a really bad headache today.
+
+Also, I'm going on a trip, so I will not be very active.
+
+But today I worked on fixing the moving platform in my unreal game.
+
+There were some rotation issues, so in true programming fashion, I advoid fixing the actual problem and came up with a different solution.
+
+Instead of rotating the platform, I just multiple the movement vector by -1.
+
+Problem solved.
+
+Bye
