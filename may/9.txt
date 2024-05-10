@@ -1,0 +1,15 @@
+May 9th,
+
+I'm litterally packing inbetween writing today's code.
+
+Gonna be away from the computer for a few days, so expect less coding and more blabber about code.
+
+Came back to mudcraft today. Don't know why, but it was about time to return.
+
+Overall, I'm disappointed in how bad my code is and I'm considering transfering everything into typescript. It's just really hard to find data types that my functions are expecting.
+
+And I only have like one or two objects....
+
+Type safety is not just a net, but a productivity tool.
+
+Bye
