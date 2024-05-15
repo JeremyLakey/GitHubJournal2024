@@ -1,0 +1,13 @@
+May 14th,
+
+Decided to try and actually make a good project today.
+
+By which, I mean mudcraft.
+
+Hopefully in the coming weeks, the typesafty will allow me to edit and develop faster.
+
+I had a rough time coming back to the project and not having typing.
+
+So hopefully, this makes the project easier to work on for both me and future contributors. 
+
+Night!
