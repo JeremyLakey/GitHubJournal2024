@@ -1,0 +1,17 @@
+May 15th,
+
+Gosh typescript rocks. 
+
+I can right click on a function and get taken to were the function was define.
+
+Instead of looking up documentation, I can just go to the module file and look at the definitions.
+
+Literally going to save hours, plus it has caught a handful of bugs also. (I thought I was good enough to not make mistakes, but reality is often disappointing.)
+
+Even though today was a tech debt day, it felt good.
+
+I also learned a lot about how to use typescript.
+
+Which is a great career skill.
+
+Bye nerd
