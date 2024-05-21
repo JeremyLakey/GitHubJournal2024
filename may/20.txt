@@ -1,0 +1,9 @@
+May 20th,
+
+Work a little bit on mudcraft, but I decided to chill with just a few commands added.
+
+Hopefully in the next couple of days I can get something like digging or attacking working.
+
+For the most part, its just consitency at this point.
+
+Eventually, I can stop working and actually play mudcraft!
