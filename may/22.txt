@@ -1,0 +1,19 @@
+May 22nd,
+
+I wrote the may 21st entry on the 21st, I forgot to commit it thou. Oops.
+
+But Today I got digging working in Mudcraft!
+
+Probably going to do more inventory managment stuff then placing blocks next.
+
+But it is wicked cool to be able to manipulate the world through the terminal.
+
+After that, I'll try to get ladders, doors, chest, and villagers working.
+
+Then lastly attacking.
+
+And then you cannot forget crafting.
+
+Which I don't think will be as hard as it sounds. But it will still be pretty hard.
+
+Alright go away now
