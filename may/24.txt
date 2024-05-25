@@ -1,0 +1,33 @@
+May 24th,
+
+The world is a very confusing and confunding place.
+
+But sometimes the coding just feels good. Did a bit of refacting today on mudcraft.
+
+All of it in preparation for having others potential work on the project.
+
+So I updated the read me.
+
+Actually use a scr directory.
+
+And made credientials and settings more centeral.
+
+So nothing new feature wise, but this work will help the project move along.
+
+I'm really happy working on this project.
+
+The feeling is very encouraging and motivating.
+
+I haven't talked about motivation as much in these logs lately.
+
+Motivation has been pretty steady at this point.
+
+I have a large project to work on, and I'm making enough project to feel happy about each day.
+
+There really isn't any day were All I do is code, which is very different from the start of this journey.
+
+Instead, I do the bare minimun each day. Partly because my family life has been much much busier. 
+
+So I really can't work on this project more than 30-60 minutes a day.
+
+In summary, I do be coding. It might not be a lot, but it's honest work.
