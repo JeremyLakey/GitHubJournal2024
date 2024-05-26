@@ -1,0 +1,13 @@
+May 25th,
+
+Was working on Mudcraft and was trying to fix an issue.
+
+Basically light should be a thing.
+
+So I looked into it and realized that light is not included in the model of the world.
+
+They just never got around to calculating it. So I think tomorrow or the day after that, I'm going to implenet light on the open source project. Then use it in mudcraft.
+
+Honestly super excited to work on it, because I'm totally wanted to work on something. And now that I found an issue that relates to me, I'm going for it. 
+
+Bye!
