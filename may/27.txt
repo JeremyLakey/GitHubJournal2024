@@ -1,0 +1,15 @@
+May 27th,
+
+So I got some inspiration for a twitch plays project. 
+
+Twitch plays clash royale!
+
+Basically a set up that will allow a bunch of twitch chatter to somewhat play clash royale from their twitch chat.
+
+I've already got the most important part of the game, emotes, working.
+
+Somewhere I got twitch chat reading perfected. I just have to go back and find it.
+
+It shouldn't be that hard of a project. But I'm just very excited for it to get off the ground.
+
+Bye
