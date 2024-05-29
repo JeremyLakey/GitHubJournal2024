@@ -1,0 +1,15 @@
+May 28th,
+
+I've been tired alllll day today.
+
+Then I was excited to start coding and then it I started working on oauth.
+
+Day ruined.
+
+I got some code down but didn't figured it out before my head ran out of steam.
+
+I was just trying to connect a bot to a twitch chat and there seems to be a lot more security protocals that have been added over the last 6 months or something.
+
+Because I don't remember it being this cancerous. Or I'm just doing the wrong thing. Maybe tomorrow will be the day it all works. Or maybe not.
+
+N'ght
