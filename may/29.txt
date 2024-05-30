@@ -1,0 +1,11 @@
+May 29th,
+
+Ok, I don't like how the twitch auth works.
+
+But that is mostly because I'm not very good at authorizations.
+
+It took me an hour of developing reading comprehension skills, but I think we are in business to start working on the twitch plays clash project.
+
+The last thing to look into tomorrow is going a more proper event loop.
+
+Bye
