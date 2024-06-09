@@ -1,0 +1,31 @@
+June 9th,
+
+Planned on doing something simple today. 
+
+And it was even simplier than I originally planned.
+
+I made a function to solve the game towers of hanoi.
+
+I remember seeing this function like 4.5 years ago.
+
+And I didn't understand it then, but I wanted to implement it.
+
+Most of the time was spent trying to mental translate the solution.
+
+I started by practicing myself a few smaller examples.
+'
+Then I realized that it is just calling three functions recursively over and over again.
+
+Those functions being.
+
+Move tower of height - 1 to pivot position.
+
+Move final block to target position.
+
+Move tower of height - 1 form pivot to target position.
+
+It's not a very efficient solution, but I'm pretty sure that the optimal solution is always 2^n - 1 moves.
+
+So the solution will always be exponetial.
+
+Alright bye
