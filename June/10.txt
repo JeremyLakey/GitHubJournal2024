@@ -1,0 +1,17 @@
+June 10th,
+
+I keep using vim, but I'm "using" vim?
+
+Probably not.
+
+There isn't really anything that I'm doing that is special.
+
+But I heard of something called vim motions.
+
+Guess I need to learn that eventually to become a "master"
+
+Today was spend adding a chest unlock feature to the clash royale project.
+
+Not much work. Mostly using what I already had.
+
+N'ght
