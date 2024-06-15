@@ -1,0 +1,17 @@
+June 15th,
+
+Over the last few months, mudcraft debugging has increasingly become a hard time.
+
+So to counter this, I made some logging tools.
+
+Then added them as hidden commands.
+
+Most of my projects are at the testing stage.
+
+But setup can be hard.
+
+So I might spend sometime testing and writting stuff for a few days, but not actually getting to coding.
+
+We'll just have to see.
+
+Laters
