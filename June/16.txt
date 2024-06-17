@@ -1,0 +1,15 @@
+June 16th,
+
+No thoughts today.
+
+But I decided to try to implement help prompts to clash royal project.
+
+Nothing serious, just when a user sends help, I'll direct them to a web page (or eventually a youtube video).
+
+Also, I found a few other typos and bugs.
+
+I'm 89% sure this isn't in a working state, because I just keep working on the project without testing and QAing anything.
+
+But it will probably be fine.... I hope.
+
+Bye
