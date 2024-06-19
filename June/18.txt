@@ -1,0 +1,21 @@
+June 18th,
+
+This week, or the last 4 day, have felt more stressful than I would like.
+
+I'm going to try to think about why and get back with an answer tomorrow.
+
+There might be a word vomit session, but I just need to check in.
+
+Today, I did a leetcode problem. 
+
+It was interesting. 
+
+It was basically combining a large number of segments of undeterminded length and colors.
+
+So I hashed map the beginning and ends and iterated until the end.
+
+Overall, It worked fine.
+
+I wonder if there is a hard based off this medium problem.
+
+Signing out
