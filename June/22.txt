@@ -1,0 +1,23 @@
+June 22nd,
+
+Idea for future project. I think after the month of August, I'm going to try a web or moblie project.
+
+Something that is most based on front-end stuff.
+
+Because I have done front-end in some projects this year, but I want to focus a little more on it.
+
+My idea is a social platform I'll call message in a bottle.
+
+How it works is that you have a list of friends and you can add a post, but it only sends the message to one person.
+
+Then only that person can respond to the message, but they don't know who sent the message until they react.
+
+Whole idea is to build the relationships that fall between the cracks.
+
+But Idk, I just feel like doing it.
+
+Another idea, but for a game, is you hook up an EEG sensor to measure brain waves of the player.  
+
+So they have to stop thinking or the monster gets them.
+
+Some thoughts, nothing concret. Bye
