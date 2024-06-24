@@ -1,0 +1,10 @@
+
+- Message in a bottle social media site.
+
+- EEG monitoring horror game, were your brain waves cause monsters to attack you.
+
+- The intersect visual generator. Put in a fact to generate a quick memory visual. Like from chuck.
+
+- Task bot: A discord bot that assigns you tasks from a list somewhere. 
+
+- Encouragement couch: randomly yells encouraging things at you
