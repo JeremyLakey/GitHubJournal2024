@@ -1,0 +1,49 @@
+June 23rd,
+
+Today, my computer has been commandeered by my wife.
+
+So I'm not coding unfortunately. But I wasn't really in the mode anyways.
+
+Instead I feel like ranting, talking, or expressing myself.
+
+Motivation is at an all time low.
+
+Just before the halfway point and I do not have much focus or driving force behind my coding.
+
+Like I just do about 20 lines and move on with my night.
+
+I don't think about what code I'm going to work on until the moment I'm free.
+
+So it's more of a chore to figure out what is next before even working.
+
+Maybe I need to plan more...
+
+Or maybe I just need to start some smaller side projects again.
+
+The clash Royale project is close to completion. So maybe I need to write up a read me for that.
+
+But it's not motivating anymore. Which is fine, because most things lose their excitement over time.
+
+But man, I'm not enjoying it.
+
+On the flip side, I'm feeling very happy that I'm capable of pushing myself.
+
+Ok so for the solution for this feeling.
+
+First, I'm going to have a Quality assurance day. Where I don't necessarily code, but I look for bugs in a project I'm working on. 
+
+I fine that I rather code most days than set up the testing environments for my projects.
+
+Second, I need to start learning more unreal. So I will set apart two days to watching courses for that. (Which might involve code or not)
+
+Hopefully I can be ready for a game jam by August. But it's all really whatever. Maybe I go crawling back to unity. Who knows.
+
+Third, I'm writing my object for the next day on the day prior's journal.
+
+That way, I don't have to worry as much about this throughout the day.
+
+Fourth, I'm going to make a new file for project ideas. Nothing committal, but a list for new ideas.
+
+For tomorrow: It's the first Quality assurance day. We are testing the clash Royale code.
+
+Bye!
