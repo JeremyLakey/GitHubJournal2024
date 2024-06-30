@@ -1,0 +1,15 @@
+June 29th,
+
+I've been debugging for a while.
+
+Its really hard when it is kinda wishy washy stuff.
+
+This is for the clash royale project.
+
+But finding a card's position is kinda hard. Some cards are clicking in the wrong area.
+
+Finding a general confidence level might've been a little ambitious. I might either have specific areas preassigned to look for cards or manually find the best confidence levels for each cards.
+
+Tomorrow, I'm probably going to write a read me doc for this project.
+
+Night
