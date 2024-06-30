@@ -1,0 +1,19 @@
+June 30th,
+
+Started working on a read me. Which is what I like to do on Sundays.
+
+It just less stress and feels rewarding.
+
+The project it is for, Clash Royale Twitch plays, is very very hard to set up.
+
+And didn't even finish after a while. 
+
+The next step for the read me, is working on the hotkey setup for battles.
+
+And also getting images for selecting cards.
+
+It's most time consuming stuff. 
+
+Tomorrow will be more testing to try to get card placing working more properly. There is a really really high chance of failure that needs fixing.
+
+Bye
