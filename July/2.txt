@@ -1,0 +1,7 @@
+July 2,
+
+Decided to do a leet code medium today. It is rather easy. The question is do you end up at the same spot or facing a new direction? Then return true.
+
+Truly mathing.
+
+Bye
