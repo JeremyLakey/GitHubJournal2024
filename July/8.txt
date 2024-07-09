@@ -1,0 +1,14 @@
+July 8th,
+
+Hackathon at work so I'm going to be spending more time this week working outside of work. And so these logs and other progress will be slow.
+
+But I stated a vue project today. Just init it.
+
+
+I'm calling project ask. 
+
+It is a social media platform where you can ask for a task and someone random gets assigned it. I might change the name to fetch.
+
+But it is not a huge project idea. Just felt like learn how to code front-end again.
+
+Bye
